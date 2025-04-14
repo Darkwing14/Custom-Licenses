@@ -1,0 +1,32 @@
+# DKW PERMISSIVE-3.0 SHIELD
+
+© [Copyright Holders], [Time range or year].
+
+Permission is granted, without the requirement of payment, to create projects based on this software and any documentation files under the following requirements:
+
+## OWNERSHIP AND ATTRIBUTION
+
+- You do not claim that you made this software, but you may say you "forked" it. You must also clearly link to the license you are following in the description.  
+- You must provide a link to where you originally obtained the software if your platform allows it. If your platform does not allow links, you must include the name "[Copyright Holders]" anywhere in the description.
+
+## VIRUSES AND WARRANTY
+
+**YOU MUST NOT USE ANY COPY OF OUR SOFTWARE OR IMPERSONATE US OR OUR CREATION TO DISTRIBUTE VIRUSES! THIS IS VERY IMPORTANT!**
+
+An example of a "Virus" includes but is not limited to software that:
+
+- Modifies or deletes software outside of this copy of the software. Deletion or modification of software created by this modification of the IP is allowed.  
+- Collects data on usage without informing the user. A "user" is defined as anyone who obtains a copy of the software without modifying it.  
+- Collects passwords and/or emails from accounts.  
+- Copies itself to other parts of the system.  
+- Copies itself to other computers in the network or otherwise conducts a Distributed Denial of Service (DDoS) attack. A DDoS attack is defined as an attack where multiple computers spam a server with requests automatically.  
+- Pretends to be non-virus software but performs any of the actions listed above.  
+
+The software is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+## LICENSE CHANGES
+
+We, the creators, reserve the right to change the license at any time without prior notice. Changes **do not** take effect for any projects made before the license change, and you reserve the right to update your copy of the project on your own. If the license is changed and you update your project to include all software from our version, you must follow the new license.
+
+If a later version of DKW PERMISSIVE exists in the repository:  
+[https://github.com/Darkwing14/Custom-Licenses](https://github.com/Darkwing14/Custom-Licenses), you may use it. A "later" version is defined as any version in the repository that starts with "DKW PERMISSIVE-" and has a higher version number than this copy. The version number of this copy is displayed at the top of this document.
